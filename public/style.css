@@ -8,7 +8,19 @@ label{
     display: block;
     margin-bottom: 5px;
 }
+#username{
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+#password{
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
 
 button{
-    margin: 10px;
+    padding-top: 10px;
+    padd
+    
 }

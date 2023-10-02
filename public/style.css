@@ -21,6 +21,11 @@ label{
 
 button{
     padding-top: 10px;
-    padd
-    
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
 }
